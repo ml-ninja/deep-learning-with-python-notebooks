@@ -1,0 +1,25 @@
+name: ninjaLab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - nb_conda_kernels
+  - ipykernel
+  - ipython
+  - jupyter
+  - jupyterlab
+  - kaggle
+  - keras=2.7.0
+  - Keras-Preprocessing
+  - matplotlib
+  - matplotlib-inline
+  - nltk==3.2.5
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - tensorboard=2.6.0
+  - tensorflow=2.7.0
+
