@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+cats_vs_dogs_small/
+*.keras
+*.zip
+*.png
+*.csv
+LOG/
+TMP/

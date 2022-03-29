@@ -2,12 +2,12 @@
 
 This repository contains Jupyter notebooks implementing the code samples found in the book 
 
-  * [![Deep Learning with Python, 2nd Edition (Manning Publications)](https://raw.githubusercontent.com/ml-ninja/deep-learning-with-python-notebooks/master/images/Chollet-2ed-HI.png)](https://www.manning.com/books/deep-learning-with-python-second-edition)
+  * [![Deep Learning with Python, 2nd Edition (Manning Publications)](https://raw.githubusercontent.com/ml-ninja/deep-learning-with-python-notebooks/master/images/Chollet-2ed-HI.png)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=ml-ninja&a_cid=11111111&chan=c2)
 
 For readability, these notebooks only contain runnable code blocks and section titles, and omit everything else in the book: text paragraphs, figures, and pseudocode.
 **If you want to be able to follow what's going on, I recommend reading the notebooks side by side with your copy of the book.**
 
-[Preview the book for free](https://www.manning.com/books/deep-learning-with-python-second-edition) on Manning.
+[Preview the book for free](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=ml-ninja&a_cid=11111111&chan=c2) on Manning.
 
 
 These notebooks use TensorFlow 2.6.
